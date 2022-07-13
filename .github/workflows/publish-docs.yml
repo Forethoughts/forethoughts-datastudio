@@ -10,4 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: checkout master
-      u
+      uses: actions/checkout@v2
+    - name: build docs
+      
