@@ -16,4 +16,7 @@ jobs:
       with:
         docs-folder: "./docs"
     - name: checkout gh-pages branch
-    
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+ 
