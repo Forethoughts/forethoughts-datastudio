@@ -23,4 +23,5 @@ jobs:
     - name: Commit documentation changes
       run: |
           cp -r docs/_build/html/* gh-pages/
-          c
+          cd gh-pages
+          git config --local user.email "action@gith
