@@ -7,4 +7,6 @@ SPHINXBUILD   = sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
 
-# Put it first so th
+# Put it first so that "make" without argument is like "make help".
+help:
+	@$(SPHINXBUI
