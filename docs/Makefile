@@ -13,4 +13,5 @@ help:
 
 .PHONY: help Makefile
 
-# Catch-all target: route all un
+# Catch-all target: route all unknown targets to Sphinx using the new
+# "make mode" option. 
