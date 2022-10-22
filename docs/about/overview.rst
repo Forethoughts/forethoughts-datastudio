@@ -8,4 +8,4 @@ Why open data studio?
 
 The ability to use data becomes the key differentiator of businesses. 
 
-To
+To use data, we need tools. Thankfully, machine learning, data analytics, lar
