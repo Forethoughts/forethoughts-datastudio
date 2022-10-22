@@ -6,4 +6,6 @@ Open data studio is an open initiative to bring machine learning and large scale
 Why open data studio?
 ------------------------
 
-The ability to use 
+The ability to use data becomes the key differentiator of businesses. 
+
+To
