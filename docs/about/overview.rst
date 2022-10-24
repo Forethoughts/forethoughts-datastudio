@@ -8,4 +8,4 @@ Why open data studio?
 
 The ability to use data becomes the key differentiator of businesses. 
 
-To use data, we need tools. Thankfully, machine learning, data analytics, large scale data processing are the areas where open sou
+To use data, we need tools. Thankfully, machine learning, data analytics, large scale data processing are the areas where open source software dominates. So many great tools
