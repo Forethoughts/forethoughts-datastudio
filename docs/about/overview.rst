@@ -14,4 +14,11 @@ However, architecting, installing, integrating, and maintaining to build your pi
 We know not every organization can not invest as much as those top few trillion-dollar value companies to build ML/data pipeline.
 
 Open data studio's goal is to minimize this gap so any organization can have the
-same ability from day 
+same ability from day one.
+
+
+|overview-img|
+
+.. include:: ../ref.rst
+
+.. |overview-img|
