@@ -13,4 +13,5 @@ To use data, we need tools. Thankfully, machine learning, data analytics, large 
 However, architecting, installing, integrating, and maintaining to build your pipeline became a new challenge, while it needs lots of investment to get proper setup/configurations, experiences, and best practices.
 We know not every organization can not invest as much as those top few trillion-dollar value companies to build ML/data pipeline.
 
-Open data studio's goal is to minimi
+Open data studio's goal is to minimize this gap so any organization can have the
+same ability from day 
