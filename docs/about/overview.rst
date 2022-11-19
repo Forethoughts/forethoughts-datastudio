@@ -21,4 +21,5 @@ same ability from day one.
 
 .. include:: ../ref.rst
 
-.. |overview-img|
+.. |overview-img| image:: ../_static/overview.png
+   :width
