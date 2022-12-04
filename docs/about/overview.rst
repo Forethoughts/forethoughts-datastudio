@@ -22,4 +22,5 @@ same ability from day one.
 .. include:: ../ref.rst
 
 .. |overview-img| image:: ../_static/overview.png
-   :width
+   :width: 700px
+   :alt: Open data studio overview
