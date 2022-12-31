@@ -21,3 +21,24 @@ Key features
 
 Superset Quickstart
 -------------------
+
+.. image:: https://staroid.com/api/run/button.svg
+   :target: https://staroid.com/g/open-datastudio/superset
+
+**Screenshots**
+
+|superset-screenshot|
+
+
+=============================== ===================================================================
+Launch page                     https://staroid.com/g/open-datastudio/superset
+Open data studio repository     https://github.com/open-datastudio/superset
+Original repository             https://github.com/apache/superset
+Documentation                   https://superset.apache.org/
+=============================== ===================================================================
+
+.. include:: ../ref.rst
+
+.. |superset-screenshot| image:: https://raw.githubusercontent.com/apache/incubator-superset/master/superset-frontend/images/screenshots/bank_dash.png
+   :width: 700px
+   :alt: Apache superset
