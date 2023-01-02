@@ -4,4 +4,6 @@ Dask
 
 https://github.com/open-datastudio/dask-cluster
 
-Dask suppor
+Dask supported is planned.
+
+.. include:: ../ref.rst
