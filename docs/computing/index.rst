@@ -11,4 +11,6 @@ Large scale, parallel/distributed computing.
    Ray cluster <ray/index>
 
    Dask (planned) <dask>
-   Flink (Plan
+   Flink (Planned) <flink>
+
+.. include:: ../ref.rst
