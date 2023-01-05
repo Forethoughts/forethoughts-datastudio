@@ -35,3 +35,21 @@ you'll see link to the Ray dashbaord and Jupyter notebook.
 In the Jupyter notebook, ray environment is pre-configured so you can just run
 
 .. code-block:: python
+
+   import ray
+   ray.init()  # no 'address' parameter required :)
+
+and use Ray cluster environment.
+
+
+Stop Ray cluster instance
+--------------------------
+
+In `Instance management menu <https://staroid.com/g/open-datastudio/ray-cluster/instances>`_ menu,
+You can find ``Stop`` (``Start``) and ``Terminate`` button.
+
+Stop
+    Stop Ray head and all workers. Can be (re)started later. Data stored in persistent volume is not removed.
+
+Terminate
+    Stop Ray head and all workers permanently. Can not be restarted. Data stored in persistent volume is also removed.
