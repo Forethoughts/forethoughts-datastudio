@@ -10,4 +10,5 @@ Ray is a distributed execution framework that makes it easy to scale your applic
 Key features
 
   - Fully managed
-  - Manage ray cluster using `Ray Cluster Launcher <https://docs.ray.io/en/master/clust
+  - Manage ray cluster using `Ray Cluster Launcher <https://docs.ray.io/en/master/cluster/cloud.html#staroid>`_ (``ray up ...``)
+  - Comes with Jupyter notebook
