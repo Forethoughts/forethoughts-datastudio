@@ -12,3 +12,5 @@ Key features
   - Fully managed
   - Manage ray cluster using `Ray Cluster Launcher <https://docs.ray.io/en/master/cluster/cloud.html#staroid>`_ (``ray up ...``)
   - Comes with Jupyter notebook
+  - Ray Dashboard link to the cluster
+  - GPU worker
