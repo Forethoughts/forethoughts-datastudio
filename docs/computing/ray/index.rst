@@ -20,4 +20,7 @@ Key features
 |ray-logo|
 
 Getting started Ray cluster
----------
+---------------------------
+
+.. toctree::
+   :maxdep
