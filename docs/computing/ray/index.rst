@@ -23,4 +23,6 @@ Getting started Ray cluster
 ---------------------------
 
 .. toctree::
-   :maxdep
+   :maxdepth: 1
+
+   Ray cluster from Ray Cluster Launcher CLI <from_
