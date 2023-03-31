@@ -25,4 +25,5 @@ Getting started Ray cluster
 .. toctree::
    :maxdepth: 1
 
-   Ray cluster from Ray Cluster Launcher CLI <from_
+   Ray cluster from Ray Cluster Launcher CLI <from_cluster_launcher>
+   Ray cluster from Staroid management console
