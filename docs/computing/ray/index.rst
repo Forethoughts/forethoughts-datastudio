@@ -26,4 +26,9 @@ Getting started Ray cluster
    :maxdepth: 1
 
    Ray cluster from Ray Cluster Launcher CLI <from_cluster_launcher>
-   Ray cluster from Staroid management console
+   Ray cluster from Staroid management console GUI <from_staroid_management_console>
+
+|
+|
+
+===============
