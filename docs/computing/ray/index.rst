@@ -32,4 +32,5 @@ Getting started Ray cluster
 |
 
 =============================== ===================================================================
-Open data studio Ray Cluster    https://github
+Open data studio Ray Cluster    https://github.com/open-datastudio/ray-cluster
+Original repository         
