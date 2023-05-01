@@ -41,4 +41,4 @@ Original repository             https://github.com/ray-project/ray
    :width: 150px
    :alt: Ray
 
-.. include:: ../..
+.. include:: ../../ref.rst
