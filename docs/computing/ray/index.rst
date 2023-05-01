@@ -37,4 +37,8 @@ Original repository             https://github.com/ray-project/ray
 =============================== ===================================================================
 
 
-.. |ray-logo| image:: ../../_static/ray-l
+.. |ray-logo| image:: ../../_static/ray-logo.png
+   :width: 150px
+   :alt: Ray
+
+.. include:: ../..
