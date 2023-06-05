@@ -14,4 +14,6 @@ Extra installation/initialization steps are not required.
 .. image:: https://user-images.githubusercontent.com/1540981/80290438-cf3bc180-86f9-11ea-8c1f-d2dedcd48a86.png
    :width: 600
 
-Launch and use spark inte
+Launch and use spark interpreter. Spark cluster will be automatically created.
+
+.. code-b
