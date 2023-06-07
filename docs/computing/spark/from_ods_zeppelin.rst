@@ -24,4 +24,7 @@ Launch and use spark interpreter. Spark cluster will be automatically created.
 
 
 .. code-block:: scala
-   :caption: ru
+   :caption: run spark api
+
+   %spark
+   // 'sc' and 'spark' are au
