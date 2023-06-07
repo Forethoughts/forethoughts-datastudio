@@ -20,4 +20,8 @@ Launch and use spark interpreter. Spark cluster will be automatically created.
    :caption: configure spark executors
 
    %spark.conf
-   spark.ex
+   spark.executor.instances 3
+
+
+.. code-block:: scala
+   :caption: ru
