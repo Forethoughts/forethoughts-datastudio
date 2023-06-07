@@ -16,4 +16,8 @@ Extra installation/initialization steps are not required.
 
 Launch and use spark interpreter. Spark cluster will be automatically created.
 
-.. code-b
+.. code-block:: bash
+   :caption: configure spark executors
+
+   %spark.conf
+   spark.ex
