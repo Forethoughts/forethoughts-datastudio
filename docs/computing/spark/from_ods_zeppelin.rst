@@ -31,4 +31,4 @@ Launch and use spark interpreter. Spark cluster will be automatically created.
    spark.read.json(...)
 
 
-Check :ref:`Apache Zeppe
+Check :ref:`Apache Zeppelin` for more details.
