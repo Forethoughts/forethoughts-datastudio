@@ -27,4 +27,8 @@ Launch and use spark interpreter. Spark cluster will be automatically created.
    :caption: run spark api
 
    %spark
-   // 'sc' and 'spark' are au
+   // 'sc' and 'spark' are automatically created
+   spark.read.json(...)
+
+
+Check :ref:`Apache Zeppe
