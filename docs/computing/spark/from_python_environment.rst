@@ -9,4 +9,5 @@ Spark cluster from your python environment
 |
 
 Try in Google Colab
-   .. image:: https://colab
+   .. image:: https://colab.research.google.com/assets/colab-badge.svg
+      :target:
