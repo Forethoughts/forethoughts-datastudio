@@ -10,4 +10,4 @@ Spark cluster from your python environment
 
 Try in Google Colab
    .. image:: https://colab.research.google.com/assets/colab-badge.svg
-      :target:
+      :target: https://colab.research.google.com/github/open-datastudio/ods/blob/master/not
