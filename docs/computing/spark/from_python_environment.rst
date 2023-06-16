@@ -16,4 +16,6 @@ Try in Google Colab
 |
 
 Install
---------------
+--------------------------
+
+Install `ods <https://github.com/open-datastu
