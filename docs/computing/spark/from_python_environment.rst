@@ -18,4 +18,8 @@ Try in Google Colab
 Install
 --------------------------
 
-Install `ods <https://github.com/open-datastu
+Install `ods <https://github.com/open-datastudio/ods>`_ package using pip command.
+
+.. code-block:: bash
+
+  
