@@ -22,4 +22,6 @@ Install `ods <https://github.com/open-datastudio/ods>`_ package using pip comman
 
 .. code-block:: bash
 
-  
+   $ pip install ods
+
+And let's get an `access token <https://staroid
