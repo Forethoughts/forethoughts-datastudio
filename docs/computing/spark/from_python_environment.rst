@@ -24,4 +24,4 @@ Install `ods <https://github.com/open-datastudio/ods>`_ package using pip comman
 
    $ pip install ods
 
-And let's get an `access token <https://staroid
+And let's get an `access token <https://staroid.com/settings/accesstokens>`_ and set ``STAROID_ACCE
