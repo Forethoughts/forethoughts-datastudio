@@ -28,4 +28,6 @@ And let's get an `access token <https://staroid.com/settings/accesstokens>`_ and
 
 .. code-block:: bash
 
-   $
+   $ export STAROID_ACCESS_TOKEN="<your access token>"
+
+For alter
