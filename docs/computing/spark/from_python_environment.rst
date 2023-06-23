@@ -30,4 +30,4 @@ And let's get an `access token <https://staroid.com/settings/accesstokens>`_ and
 
    $ export STAROID_ACCESS_TOKEN="<your access token>"
 
-For alter
+For alternative ways to configure access token, check `staroid-python <https:/
