@@ -35,4 +35,6 @@ For alternative ways to configure access token, check `staroid-python <https://g
 Create Kubernetes cluster
 --------------------------
 
-`staroid.com <https://staroid.com>`_  -> Products -> Kubernetes (SKE)
+`staroid.com <https://staroid.com>`_  -> Products -> Kubernetes (SKE) -> New Kubernetes cluster.
+
+.. image:: https://user-images.g
