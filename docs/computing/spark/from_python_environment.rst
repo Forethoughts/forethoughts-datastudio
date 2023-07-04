@@ -40,4 +40,9 @@ Create Kubernetes cluster
 .. image:: https://user-images.githubusercontent.com/1540981/87723637-ede8ac00-c76e-11ea-98d3-b6f8d972453d.png
    :width: 400
 
-And configure kubernetes cluster name after import python librar
+And configure kubernetes cluster name after import python library.
+
+.. code-block:: python
+
+   import ods
+   # 'ske' is
