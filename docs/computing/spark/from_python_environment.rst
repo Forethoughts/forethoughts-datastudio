@@ -45,4 +45,5 @@ And configure kubernetes cluster name after import python library.
 .. code-block:: python
 
    import ods
-   # 'ske' is the name of kubernetes cluster created from staroid.c
+   # 'ske' is the name of kubernetes cluster created from staroid.com.
+   # Alternatively, you can set the 'STAROID_SKE' environm
