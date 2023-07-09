@@ -46,4 +46,9 @@ And configure kubernetes cluster name after import python library.
 
    import ods
    # 'ske' is the name of kubernetes cluster created from staroid.com.
-   # Alternatively, you can set the 'STAROID_SKE' environm
+   # Alternatively, you can set the 'STAROID_SKE' environment variable.
+   ods.init(ske="data-team1")
+
+
+Create PySpark session
+--
