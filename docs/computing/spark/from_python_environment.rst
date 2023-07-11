@@ -53,4 +53,4 @@ And configure kubernetes cluster name after import python library.
 Create PySpark session
 -----------------------
 
-Spark-serverless enables you
+Spark-serverless enables you to create an interactive PySpark sessions with executors runnin
