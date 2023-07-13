@@ -59,4 +59,4 @@ Spark-serverless enables you to create an interactive PySpark sessions with exec
 
    import ods
    # 'ske' is the name of kubernetes cluster created from staroid.com.
-   # Altern
+   # Alternatively, you can set the 'STAROID_SKE' environ
