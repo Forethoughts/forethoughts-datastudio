@@ -62,4 +62,5 @@ Spark-serverless enables you to create an interactive PySpark sessions with exec
    # Alternatively, you can set the 'STAROID_SKE' environment variable.
    ods.init(ske="data-team1")
 
-   # get saprk session
+   # get saprk session with 3 initial worker nodes, delta lake enabled
+   spark = ods.
