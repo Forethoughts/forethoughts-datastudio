@@ -65,4 +65,5 @@ Spark-serverless enables you to create an interactive PySpark sessions with exec
    # get saprk session with 3 initial worker nodes, delta lake enabled
    spark = ods.spark("my-cluster", worker_num=3, delta=True).session()
 
-   # Do
+   # Do your work with Spark session
+   df = spark.read
