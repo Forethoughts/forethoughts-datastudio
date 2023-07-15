@@ -75,4 +75,4 @@ Now you can use Spark session with 3 remotely running executors.
      There's no application packaging and submit step required. Everything runs interactively.
 
 
-.. inc
+.. include:: ../../ref.rst
