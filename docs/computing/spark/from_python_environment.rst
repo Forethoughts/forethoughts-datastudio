@@ -72,4 +72,7 @@ Now you can use Spark session with 3 remotely running executors.
 
 .. note::
 
-     There's no application packaging and submit st
+     There's no application packaging and submit step required. Everything runs interactively.
+
+
+.. inc
