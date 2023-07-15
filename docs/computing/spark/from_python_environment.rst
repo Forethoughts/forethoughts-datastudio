@@ -68,4 +68,8 @@ Spark-serverless enables you to create an interactive PySpark sessions with exec
    # Do your work with Spark session
    df = spark.read.load(...)
 
-Now you can use Spark session with 3 remotely running execu
+Now you can use Spark session with 3 remotely running executors.
+
+.. note::
+
+     There's no application packaging and submit st
