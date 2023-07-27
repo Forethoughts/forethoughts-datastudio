@@ -7,4 +7,7 @@ Open data studio provides instant access to the Spark cluster from anywhere with
 
 Key features
 
+  - Spark 3.x
+  - Delta lake support
+  - Fully managed
   
