@@ -10,4 +10,11 @@ Key features
   - Spark 3.x
   - Delta lake support
   - Fully managed
-  
+  - Spark UI access
+
+|
+
+|spark-logo|
+
+Spark serverless cluster
+-------------
