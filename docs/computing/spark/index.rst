@@ -17,4 +17,9 @@ Key features
 |spark-logo|
 
 Spark serverless cluster
--------------
+-----------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Getting 
