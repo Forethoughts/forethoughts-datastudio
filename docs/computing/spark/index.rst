@@ -22,4 +22,5 @@ Spark serverless cluster
 .. toctree::
    :maxdepth: 1
 
-   Getting 
+   Getting Started (Python environment) <from_python_environment>
+   A
