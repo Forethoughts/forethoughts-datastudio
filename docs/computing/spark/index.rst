@@ -23,4 +23,5 @@ Spark serverless cluster
    :maxdepth: 1
 
    Getting Started (Python environment) <from_python_environment>
-   A
+   Access Spark UI <spark_ui>
+   Managing cluster instances <instances>
