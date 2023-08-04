@@ -31,4 +31,6 @@ Spark serverless cluster
 =============================== ===================================================================
 Open data studio spark service  https://github.com/open-datastudio/spark-serverless
 Original repository             https://github.com/apache/spark
-=============================== ================
+=============================== ===================================================================
+
+.. |spark
