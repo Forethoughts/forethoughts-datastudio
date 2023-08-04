@@ -29,4 +29,4 @@ Spark serverless cluster
 |
 
 =============================== ===================================================================
-Open dat
+Open data studio spark service  https://github.com/open-datastudio/spark-ser
