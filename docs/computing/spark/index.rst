@@ -33,4 +33,6 @@ Open data studio spark service  https://github.com/open-datastudio/spark-serverl
 Original repository             https://github.com/apache/spark
 =============================== ===================================================================
 
-.. |spark
+.. |spark-logo| image:: ../../_static/spark-logo.png
+   :width: 150px
+  
