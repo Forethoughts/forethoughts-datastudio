@@ -35,4 +35,6 @@ Original repository             https://github.com/apache/spark
 
 .. |spark-logo| image:: ../../_static/spark-logo.png
    :width: 150px
-  
+   :alt: Apache spark
+
+.. include:: ../../ref.rst
