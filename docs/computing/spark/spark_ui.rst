@@ -2,4 +2,7 @@
 Access Spark UI
 ===============
 
-Ac
+Access Spark UI locally
+-----------------------
+
+While Spark-
