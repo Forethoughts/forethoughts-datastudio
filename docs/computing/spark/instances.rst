@@ -81,3 +81,17 @@ Stop
     Stop all executors. Can be (re)started later. Data stored in persistent volume is not removed.
 
     Python API equivalent is
+
+    .. code-block:: python
+
+       # 'spark' is spark session created from 'spark = ods.spark("my-cluster").session()'
+       spark.stop()
+
+Terminate
+    Stop all executors permanently. Can not be restarted. Data stored in persistent volume is also removed.
+
+    Python API equivalent is
+
+    .. code-block:: python
+
+       ods.spark("my-cluster").delete()
