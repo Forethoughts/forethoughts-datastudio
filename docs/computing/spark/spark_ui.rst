@@ -6,4 +6,7 @@ Access Spark UI locally
 -----------------------
 
 While Spark-serverless keeps Spark driver running on your python environment (client-side),
-you can simply browse ``localhost:4040`` (or subsequent port numbers) to access Spark UI wh
+you can simply browse ``localhost:4040`` (or subsequent port numbers) to access Spark UI when you are using your laptop.
+
+
+Access Spark UI remot
