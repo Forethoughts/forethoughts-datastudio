@@ -14,4 +14,5 @@ Access Spark UI remotely
 
 If you're using some environment that accesses to the other local ports are limited
 (for example, notebook environment on the cloud, such as Google Colab) or you'd like to share
-your Spark UI with your team, you can find a Spark UI lin
+your Spark UI with your team, you can find a Spark UI link, when you open a detail view of your instance
+from `Instance ma
