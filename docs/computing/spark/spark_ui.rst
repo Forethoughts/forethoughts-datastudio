@@ -12,4 +12,5 @@ you can simply browse ``localhost:4040`` (or subsequent port numbers) to access 
 Access Spark UI remotely
 ------------------------
 
-If you're using some environment that a
+If you're using some environment that accesses to the other local ports are limited
+(for example, n
