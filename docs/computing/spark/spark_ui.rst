@@ -17,4 +17,4 @@ If you're using some environment that accesses to the other local ports are limi
 your Spark UI with your team, you can find a Spark UI link, when you open a detail view of your instance
 from `Instance management menu <https://staroid.com/g/open-datastudio/spark-serverless/instances>`_.
 
-.. image:: https://user-imag
+.. image:: https://user-images.githubusercontent.com/1540981/100956146-af10840
