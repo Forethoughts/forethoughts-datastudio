@@ -7,4 +7,5 @@ transactions to Apache Spark™ and big data workloads.
 
 Open data provides Delta lake in the following spark environments
 
-================================================== ===
+================================================== ==========================================
+Service          
