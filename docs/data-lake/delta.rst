@@ -10,4 +10,5 @@ Open data provides Delta lake in the following spark environments
 ================================================== ==========================================
 Service                                            Note
 ================================================== ==========================================
-:ref:`Apache Zeppelin`                     
+:ref:`Apache Zeppelin`                             Through ``%spark`` interpreter
+:ref:`Spark cluster from your
