@@ -12,4 +12,4 @@ Service                                            Note
 ================================================== ==========================================
 :ref:`Apache Zeppelin`                             Through ``%spark`` interpreter
 :ref:`Spark cluster from your python environment`  ``ods.spark("cluster-name", delta=True)``
-=============================================
+================================================== =========================================
