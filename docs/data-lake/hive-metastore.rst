@@ -7,4 +7,5 @@ Open data studio makes it easy to deploy on the cloud.
 
 Key features
 
-  -
+  - Based on Hive 3.1.2
+  - Click to deploy. No setup required
