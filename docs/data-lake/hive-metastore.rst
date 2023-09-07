@@ -9,3 +9,5 @@ Key features
 
   - Based on Hive 3.1.2
   - Click to deploy. No setup required
+  - Configured with Postgresql DB
+  - Connect from :ref:
