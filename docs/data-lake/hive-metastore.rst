@@ -12,4 +12,5 @@ Key features
   - Configured with Postgresql DB
   - Connect from :ref:`Spark thriftserver` and :ref:`Apache Zeppelin`. No configuration required
 
-=============================== ============
+=============================== ===================================================================
+Launch page   
