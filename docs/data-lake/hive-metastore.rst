@@ -10,4 +10,6 @@ Key features
   - Based on Hive 3.1.2
   - Click to deploy. No setup required
   - Configured with Postgresql DB
-  - Connect from :ref:`Spark thriftserver` and :ref:`Apache Zeppelin`. No configuration req
+  - Connect from :ref:`Spark thriftserver` and :ref:`Apache Zeppelin`. No configuration required
+
+=============================== ============
