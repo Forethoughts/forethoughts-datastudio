@@ -13,4 +13,5 @@ Key features
   - Connect from :ref:`Spark thriftserver` and :ref:`Apache Zeppelin`. No configuration required
 
 =============================== ===================================================================
-Launch page   
+Launch page                     https://staroid.com/g/open-datastudio/hive-metastore
+Open 
