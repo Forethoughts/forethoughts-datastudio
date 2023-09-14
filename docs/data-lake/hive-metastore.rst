@@ -15,4 +15,5 @@ Key features
 =============================== ===================================================================
 Launch page                     https://staroid.com/g/open-datastudio/hive-metastore
 Open data studio repository     https://github.com/open-datastudio/hive-metastore
-Original repository             https://github.com/
+Original repository             https://github.com/apache/hive
+Documentation                   http://hive.apache.or
