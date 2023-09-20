@@ -20,4 +20,7 @@ Documentation                   http://hive.apache.org/
 =============================== ===================================================================
 
 
-Hive metastor
+Hive metastore Quickstart
+-------------------------
+
+.. 
