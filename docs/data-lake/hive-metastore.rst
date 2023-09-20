@@ -17,4 +17,7 @@ Launch page                     https://staroid.com/g/open-datastudio/hive-metas
 Open data studio repository     https://github.com/open-datastudio/hive-metastore
 Original repository             https://github.com/apache/hive
 Documentation                   http://hive.apache.org/
-=============================== =====================
+=============================== ===================================================================
+
+
+Hive metastor
