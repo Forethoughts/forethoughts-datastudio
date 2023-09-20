@@ -23,4 +23,5 @@ Documentation                   http://hive.apache.org/
 Hive metastore Quickstart
 -------------------------
 
-.. 
+.. image:: https://staroid.com/api/run/button.svg
+   :target: https:/
