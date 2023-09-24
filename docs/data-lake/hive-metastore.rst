@@ -24,4 +24,4 @@ Hive metastore Quickstart
 -------------------------
 
 .. image:: https://staroid.com/api/run/button.svg
-   :target: https:/
+   :target: https://staroid.com/g/open-datastudio/hive-metast
