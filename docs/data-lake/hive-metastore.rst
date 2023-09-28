@@ -30,4 +30,4 @@ Hive metastore Quickstart
 Get hive-metastore address
 ---------------------------------
 
-To learn 
+To learn how to get address of hive metastore server address after deploy,
