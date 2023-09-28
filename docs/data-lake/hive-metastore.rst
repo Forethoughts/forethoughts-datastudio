@@ -31,3 +31,4 @@ Get hive-metastore address
 ---------------------------------
 
 To learn how to get address of hive metastore server address after deploy,
+click `README <https://github.com/open-datastudio/hive-metast
