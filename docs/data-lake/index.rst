@@ -8,4 +8,7 @@ A data lake is a centralized repository that allows you to store all your struct
    :maxdepth: 1
 
    Delta lake <delta>
-   Hive Me
+   Hive Metastore <hive-metastore>
+   Spark Thriftserver <spark-thriftserver>
+   
+.
