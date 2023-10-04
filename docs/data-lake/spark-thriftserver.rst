@@ -1,2 +1,5 @@
 ==================
-Spark th
+Spark thriftserver
+==================
+
+Spark thrift server
