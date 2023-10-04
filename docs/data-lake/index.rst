@@ -11,4 +11,4 @@ A data lake is a centralized repository that allows you to store all your struct
    Hive Metastore <hive-metastore>
    Spark Thriftserver <spark-thriftserver>
    
-.
+.. include:: ../ref.rst
