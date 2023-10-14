@@ -8,4 +8,4 @@ Open data studio makes it easy to deploy on the cloud.
 
 Key features
 
-  - Allows J
+  - Allows JDBC/ODBC clients to execute SQL queries over JDBC and ODBC pr
