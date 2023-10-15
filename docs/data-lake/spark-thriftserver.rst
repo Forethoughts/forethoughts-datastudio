@@ -10,4 +10,5 @@ Key features
 
   - Allows JDBC/ODBC clients to execute SQL queries over JDBC and ODBC protocols on Apache Spark.
   - Spark 3.0
-  - Spark cluster
+  - Spark cluster is automatically configured on Kubernetes
+  - Connect to :ref:`Hive meta
