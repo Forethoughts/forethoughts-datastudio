@@ -8,4 +8,6 @@ Open data studio makes it easy to deploy on the cloud.
 
 Key features
 
-  - Allows JDBC/ODBC clients to execute SQL queries over JDBC and ODBC pr
+  - Allows JDBC/ODBC clients to execute SQL queries over JDBC and ODBC protocols on Apache Spark.
+  - Spark 3.0
+  - Spark cluster
