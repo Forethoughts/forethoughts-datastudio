@@ -13,4 +13,5 @@ Key features
   - Spark cluster is automatically configured on Kubernetes
   - Connect to :ref:`Hive metastore`. No configuration required
 
-=============================== ==================================================
+=============================== ===================================================================
+Launch page                     https://sta
