@@ -14,4 +14,5 @@ Key features
   - Connect to :ref:`Hive metastore`. No configuration required
 
 =============================== ===================================================================
-Launch page                     https://sta
+Launch page                     https://staroid.com/g/open-datastudio/spark-thriftserver
+Open data studio reposi
