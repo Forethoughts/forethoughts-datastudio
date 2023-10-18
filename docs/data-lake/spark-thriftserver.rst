@@ -16,4 +16,4 @@ Key features
 =============================== ===================================================================
 Launch page                     https://staroid.com/g/open-datastudio/spark-thriftserver
 Open data studio repository     https://github.com/open-datastudio/spark-thriftserver
-O
+Original repository             https://github.com/apach
