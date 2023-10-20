@@ -18,4 +18,4 @@ Launch page                     https://staroid.com/g/open-datastudio/spark-thri
 Open data studio repository     https://github.com/open-datastudio/spark-thriftserver
 Original repository             https://github.com/apache/spark
 Documentation                   https://spark.apache.org/docs/latest/sql-distributed-sql-engine.html
-======
+=============================== =====================================================
