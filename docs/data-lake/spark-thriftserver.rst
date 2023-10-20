@@ -17,4 +17,5 @@ Key features
 Launch page                     https://staroid.com/g/open-datastudio/spark-thriftserver
 Open data studio repository     https://github.com/open-datastudio/spark-thriftserver
 Original repository             https://github.com/apache/spark
-Documentation                   https://spark.apache.org/doc
+Documentation                   https://spark.apache.org/docs/latest/sql-distributed-sql-engine.html
+======
