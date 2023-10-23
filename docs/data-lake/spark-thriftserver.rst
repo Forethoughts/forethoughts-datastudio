@@ -22,3 +22,6 @@ Documentation                   https://spark.apache.org/docs/latest/sql-distrib
 
 Spark thrift-server Quickstart
 ------------------------------
+
+.. image:: https://staroid.com/api/run/button.svg
+  
