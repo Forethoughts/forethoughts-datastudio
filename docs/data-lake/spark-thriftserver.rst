@@ -25,3 +25,7 @@ Spark thrift-server Quickstart
 
 .. image:: https://staroid.com/api/run/button.svg
    :target: https://staroid.com/g/open-datastudio/spark-thriftserver
+
+
+Get spark-thriftserver address
+-----------------
