@@ -28,4 +28,6 @@ Spark thrift-server Quickstart
 
 
 Get spark-thriftserver address
------------------
+-------------------------------------
+
+`spark-thriftserver-info <https://github.com/open
