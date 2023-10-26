@@ -30,4 +30,5 @@ Spark thrift-server Quickstart
 Get spark-thriftserver address
 -------------------------------------
 
-`spark-thriftserver-info <https://github.com/open-datastudio/spark-thriftserver/blob/master/k8s/spark-thriftserve
+`spark-thriftserver-info <https://github.com/open-datastudio/spark-thriftserver/blob/master/k8s/spark-thriftserver-info.yaml>`_ ConfigMap is created
+after deployment. The ConfigMap i
