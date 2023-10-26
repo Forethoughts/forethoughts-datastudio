@@ -30,4 +30,4 @@ Spark thrift-server Quickstart
 Get spark-thriftserver address
 -------------------------------------
 
-`spark-thriftserver-info <https://github.com/open
+`spark-thriftserver-info <https://github.com/open-datastudio/spark-thriftserver/blob/master/k8s/spark-thriftserve
