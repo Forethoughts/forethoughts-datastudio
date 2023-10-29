@@ -32,4 +32,6 @@ Get spark-thriftserver address
 
 `spark-thriftserver-info <https://github.com/open-datastudio/spark-thriftserver/blob/master/k8s/spark-thriftserver-info.yaml>`_ ConfigMap is created
 after deployment. The ConfigMap includes spark-thriftserver JDBC URL to connect.
-Other project can import this ConfigMap. `Learn more <https://docs.staroid.com/p
+Other project can import this ConfigMap. `Learn more <https://docs.staroid.com/project/dependency.html>`__.
+
+.. include:: ../ref.r
