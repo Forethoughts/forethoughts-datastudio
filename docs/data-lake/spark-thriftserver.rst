@@ -34,4 +34,4 @@ Get spark-thriftserver address
 after deployment. The ConfigMap includes spark-thriftserver JDBC URL to connect.
 Other project can import this ConfigMap. `Learn more <https://docs.staroid.com/project/dependency.html>`__.
 
-.. include:: ../ref.r
+.. include:: ../ref.rst
