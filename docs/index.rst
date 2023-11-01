@@ -2,4 +2,6 @@
 ==================================
 
 Open data studio is a fully managed computing service on Staroid_ cloud,
-built with open source d
+built with open source development model.
+
+That means you can enjoy all the benefits of s
