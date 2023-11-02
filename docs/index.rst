@@ -17,4 +17,4 @@ Use cases
 
   |spark-usecase|
 
-  
+  * From Python shell/ide/notebook on your laptop, interactively pr
