@@ -17,4 +17,4 @@ Use cases
 
   |spark-usecase|
 
-  * From Python shell/ide/notebook on your laptop, interactively pr
+  * From Python shell/ide/notebook on your laptop, interactively process massive data on your data lake with :ref:`Spark serve
