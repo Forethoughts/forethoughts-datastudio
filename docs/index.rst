@@ -17,4 +17,5 @@ Use cases
 
   |spark-usecase|
 
-  * From Python shell/ide/notebook on your laptop, interactively process massive data on your data lake with :ref:`Spark serve
+  * From Python shell/ide/notebook on your laptop, interactively process massive data on your data lake with :ref:`Spark serverless`.
+  * Connect your BI tools via JDBC using :ref:`Spark thriftser
