@@ -19,4 +19,4 @@ Use cases
 
   * From Python shell/ide/notebook on your laptop, interactively process massive data on your data lake with :ref:`Spark serverless`.
   * Connect your BI tools via JDBC using :ref:`Spark thriftserver`. On-demand Spark cluster is automatically configured for you.
-  * Visualize your data on interactive note
+  * Visualize your data on interactive notebook using :ref:`Apache Zeppelin`. On-demand Spark cluster 
