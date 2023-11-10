@@ -25,4 +25,5 @@ Use cases
 
   |ray-usecase|
 
-  * Use ``ray up`` command to launch fully managed :ref:`Ray cluster` on the
+  * Use ``ray up`` command to launch fully managed :ref:`Ray cluster` on the cloud.
+  * Deploy your model using Ray serve with authen
