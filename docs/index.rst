@@ -25,4 +25,4 @@ Use cases
 
   |ray-usecase|
 
-  * Use ``ray up`
+  * Use ``ray up`` command to launch fully managed :ref:`Ray cluster` on the
