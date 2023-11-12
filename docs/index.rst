@@ -30,4 +30,8 @@ Use cases
   * Launch GPU accelerated :ref:`Jupyter` instance on the cloud.
 
 
-.. |spark-usecase| image:: ./_static/spark
+.. |spark-usecase| image:: ./_static/spark-usecase.png
+   :width: 650px
+   :alt: Spark use case
+
+.
