@@ -27,4 +27,7 @@ Use cases
 
   * Use ``ray up`` command to launch fully managed :ref:`Ray cluster` on the cloud.
   * Deploy your model using Ray serve with authenticated REST API endpoint.
-  * Launch GPU accelerated :ref:`Jupyt
+  * Launch GPU accelerated :ref:`Jupyter` instance on the cloud.
+
+
+.. |spark-usecase| image:: ./_static/spark
