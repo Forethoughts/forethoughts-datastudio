@@ -34,4 +34,6 @@ Use cases
    :width: 650px
    :alt: Spark use case
 
-.
+.. |ray-usecase| image:: ./_static/ray-usecase.png
+   :width: 500px
+   :alt:
