@@ -36,4 +36,9 @@ Use cases
 
 .. |ray-usecase| image:: ./_static/ray-usecase.png
    :width: 500px
-   :alt:
+   :alt: Ray use case
+
+Technology
+------------
+
+Use all the lat
