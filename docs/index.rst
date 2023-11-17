@@ -41,4 +41,4 @@ Use cases
 Technology
 ------------
 
-Use all the lat
+Use all the latest machine learning technology in a single 
