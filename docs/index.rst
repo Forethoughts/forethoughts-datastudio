@@ -41,4 +41,5 @@ Use cases
 Technology
 ------------
 
-Use all the latest machine learning technology in a single 
+Use all the latest machine learning technology in a single place.
+Open data studio continues to integrate the best technologies f
