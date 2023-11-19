@@ -44,4 +44,5 @@ Technology
 Use all the latest machine learning technology in a single place.
 Open data studio continues to integrate the best technologies for machine learning.
 
-|spark-logo| |ray-logo| |delta-log
+|spark-logo| |ray-logo| |delta-logo| |cuda-logo| |jupyter-logo| |zeppelin-logo|
+
