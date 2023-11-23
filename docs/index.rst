@@ -46,4 +46,8 @@ Open data studio continues to integrate the best technologies for machine learni
 
 |spark-logo| |ray-logo| |delta-logo| |cuda-logo| |jupyter-logo| |zeppelin-logo|
 
-.. |spark-logo| image:: ./_static/spark-log
+.. |spark-logo| image:: ./_static/spark-logo.png
+   :width: 80px
+   :alt: Apache spark
+
+.. |ray-logo| i
