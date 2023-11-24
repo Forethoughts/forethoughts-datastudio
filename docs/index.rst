@@ -53,3 +53,6 @@ Open data studio continues to integrate the best technologies for machine learni
 .. |ray-logo| image:: ./_static/ray-logo.png
    :width: 100px
    :alt: Ray
+
+.. |delta-logo| image:: ./_static/delta-logo.png
+   :width: 7
