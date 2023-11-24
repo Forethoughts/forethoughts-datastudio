@@ -50,4 +50,6 @@ Open data studio continues to integrate the best technologies for machine learni
    :width: 80px
    :alt: Apache spark
 
-.. |ray-logo| i
+.. |ray-logo| image:: ./_static/ray-logo.png
+   :width: 100px
+   :alt: Ray
