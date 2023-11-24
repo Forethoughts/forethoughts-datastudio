@@ -58,4 +58,8 @@ Open data studio continues to integrate the best technologies for machine learni
    :width: 70px
    :alt: Delta lake
 
-.. |cuda-logo| image:: ./_static/cud
+.. |cuda-logo| image:: ./_static/cuda-logo.png
+   :width: 70px
+   :alt: Nvidia CUDA
+
+.. |jupyter-logo
