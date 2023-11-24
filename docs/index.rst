@@ -55,4 +55,7 @@ Open data studio continues to integrate the best technologies for machine learni
    :alt: Ray
 
 .. |delta-logo| image:: ./_static/delta-logo.png
-   :width: 7
+   :width: 70px
+   :alt: Delta lake
+
+.. |cuda-logo| image:: ./_static/cud
