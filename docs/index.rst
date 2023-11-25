@@ -62,4 +62,6 @@ Open data studio continues to integrate the best technologies for machine learni
    :width: 70px
    :alt: Nvidia CUDA
 
-.. |jupyter-logo
+.. |jupyter-logo| image:: ./_static/jupyter-logo.png
+   :width: 60px
+   :al
