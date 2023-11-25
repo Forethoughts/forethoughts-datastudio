@@ -72,4 +72,7 @@ Open data studio continues to integrate the best technologies for machine learni
 
 |
 
-Ea
+Easy of use
+-----------
+
+Access to the latest machine learning technology shouldn
