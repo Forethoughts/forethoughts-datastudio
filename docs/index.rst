@@ -66,4 +66,10 @@ Open data studio continues to integrate the best technologies for machine learni
    :width: 60px
    :alt: Jupyter notebook
 
-.. |zeppelin-logo| image:: ./_static/z
+.. |zeppelin-logo| image:: ./_static/zeppelin-logo.svg
+   :width: 80px
+   :alt: Zeppelin notebook
+
+|
+
+Ea
