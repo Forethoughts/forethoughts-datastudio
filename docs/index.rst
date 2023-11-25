@@ -64,4 +64,6 @@ Open data studio continues to integrate the best technologies for machine learni
 
 .. |jupyter-logo| image:: ./_static/jupyter-logo.png
    :width: 60px
-   :al
+   :alt: Jupyter notebook
+
+.. |zeppelin-logo| image:: ./_static/z
