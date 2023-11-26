@@ -77,3 +77,5 @@ Easy of use
 
 Access to the latest machine learning technology shouldn't be more than a few clicks or a few lines of code away.
 
+.. code-block:: python
+   :caption: Learn more about :ref:`Spa
