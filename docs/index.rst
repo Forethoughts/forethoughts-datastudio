@@ -83,4 +83,5 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    # import open data studio library
    import ods
 
-   # create a spark cluster on th
+   # create a spark cluster on the cloud with 3 initial workers
+   spark = ods.spark("my-spark",
