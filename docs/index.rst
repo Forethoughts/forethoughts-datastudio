@@ -80,4 +80,7 @@ Access to the latest machine learning technology shouldn't be more than a few cl
 .. code-block:: python
    :caption: Learn more about :ref:`Spark cluster from your python environment`
 
-   # import open d
+   # import open data studio library
+   import ods
+
+   # create a spark cluster on th
