@@ -84,4 +84,7 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    import ods
 
    # create a spark cluster on the cloud with 3 initial workers
-   spark = ods.spark("my-spark",
+   spark = ods.spark("my-spark", worker_num=3).session()
+
+   # run spark task
+   df = spark
