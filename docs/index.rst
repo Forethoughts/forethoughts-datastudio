@@ -87,4 +87,8 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    spark = ods.spark("my-spark", worker_num=3).session()
 
    # run spark task
-   df = spark
+   df = spark.read.load("...")
+
+
+.. code-block:: bash
+   :caption: Lear
