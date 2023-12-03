@@ -91,4 +91,4 @@ Access to the latest machine learning technology shouldn't be more than a few cl
 
 
 .. code-block:: bash
-   :caption: Lear
+   :caption: Learn more about :ref:`Ray cluster from Ray Cluster Launc
