@@ -94,4 +94,7 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    :caption: Learn more about :ref:`Ray cluster from Ray Cluster Launcher CLI`
 
    $ # install ray and staroid package
-   $ pip 
+   $ pip install ray staroid kubernetes
+
+   $ # switch to nightly build
+   $ 
