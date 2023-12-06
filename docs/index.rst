@@ -99,4 +99,5 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    $ # switch to nightly build
    $ ray install-nightly
 
-   $ # get autoscaler yam
+   $ # get autoscaler yaml files
+   $ git clone https://github.com/ray-project/r
