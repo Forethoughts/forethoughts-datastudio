@@ -91,4 +91,7 @@ Access to the latest machine learning technology shouldn't be more than a few cl
 
 
 .. code-block:: bash
-   :caption: Learn more about :ref:`Ray cluster from Ray Cluster Launc
+   :caption: Learn more about :ref:`Ray cluster from Ray Cluster Launcher CLI`
+
+   $ # install ray and staroid package
+   $ pip 
