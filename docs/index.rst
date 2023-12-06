@@ -97,4 +97,6 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    $ pip install ray staroid kubernetes
 
    $ # switch to nightly build
-   $ 
+   $ ray install-nightly
+
+   $ # get autoscaler yam
