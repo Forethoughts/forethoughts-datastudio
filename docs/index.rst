@@ -100,4 +100,7 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    $ ray install-nightly
 
    $ # get autoscaler yaml files
-   $ git clone https://github.com/ray-project/r
+   $ git clone https://github.com/ray-project/ray.git
+
+   $ # spin-up cluster on the cloud and attach
+ 
