@@ -103,4 +103,5 @@ Access to the latest machine learning technology shouldn't be more than a few cl
    $ git clone https://github.com/ray-project/ray.git
 
    $ # spin-up cluster on the cloud and attach
-   $ ray up ray/python/ray/autoscaler/staroid/example-full.
+   $ ray up ray/python/ray/autoscaler/staroid/example-full.yaml
+   $ ray attach ray/python/ray/autoscaler/staroid/example-full.yam
