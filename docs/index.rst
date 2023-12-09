@@ -104,4 +104,14 @@ Access to the latest machine learning technology shouldn't be more than a few cl
 
    $ # spin-up cluster on the cloud and attach
    $ ray up ray/python/ray/autoscaler/staroid/example-full.yaml
-   $ ray attach ray/python/ray/autoscaler/staroid/example-full.yam
+   $ ray attach ray/python/ray/autoscaler/staroid/example-full.yaml
+
+
+|
+
+
+Fully managed
+-------------
+
+Save time and reduce risk.
+Open data studio is maint
