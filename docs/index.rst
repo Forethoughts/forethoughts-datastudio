@@ -114,4 +114,5 @@ Fully managed
 -------------
 
 Save time and reduce risk.
-Open data studio is maintained by the committers of the open source project and industry 
+Open data studio is maintained by the committers of the open source project and industry experts
+on top of secure, reliable, and high performance cloud platform
