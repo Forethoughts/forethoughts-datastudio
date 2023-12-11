@@ -122,4 +122,5 @@ on top of secure, reliable, and high performance cloud platform Staroid_.
 Open source
 -----------
 
-Open data studio is an open sourc
+Open data studio is an open source project.
+You can easily see source code, understand how it work
