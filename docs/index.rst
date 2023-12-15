@@ -123,4 +123,5 @@ Open source
 -----------
 
 Open data studio is an open source project.
-You can easily see source code, understand how it work
+You can easily see source code, understand how it works, and get involved.
+When you need, fork and get your own version
