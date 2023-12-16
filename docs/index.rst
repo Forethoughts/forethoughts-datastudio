@@ -126,4 +126,6 @@ Open data studio is an open source project.
 You can easily see source code, understand how it works, and get involved.
 When you need, fork and get your own version of managed service!
 
-Also, every time you launch projects
+Also, every time you launch projects, developers of the projects get funded via StarRank_.
+
+Co
