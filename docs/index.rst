@@ -128,4 +128,7 @@ When you need, fork and get your own version of managed service!
 
 Also, every time you launch projects, developers of the projects get funded via StarRank_.
 
-Co
+Community
+---------
+
+ * Open data studio github - https://gi
