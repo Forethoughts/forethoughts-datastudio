@@ -131,4 +131,5 @@ Also, every time you launch projects, developers of the projects get funded via 
 Community
 ---------
 
- * Open data studio github - https://gi
+ * Open data studio github - https://github.com/open-datastudio
+ * Open data studio slack channel - `Join <ht
