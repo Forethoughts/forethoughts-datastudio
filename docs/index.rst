@@ -132,4 +132,4 @@ Community
 ---------
 
  * Open data studio github - https://github.com/open-datastudio
- * Open data studio slack channel - `Join <ht
+ * Open data studio slack channel - `Join <https://join.slack.com/t/opendatastudio/shared_invite/zt-j
