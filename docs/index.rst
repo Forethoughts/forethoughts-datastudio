@@ -133,4 +133,4 @@ Community
 
  * Open data studio github - https://github.com/open-datastudio
  * Open data studio slack channel - `Join <https://join.slack.com/t/opendatastudio/shared_invite/zt-jq449y9j-DIPBteeWC15xBbQAqi4J4g>`_
- * Issue tracker - You can find 'issue' menu on each projects. But if you're not sure,
+ * Issue tracker - You can find 'issue' menu on each projects. But if you're not sure, create an issue `here <https://github.com/open-datastudi
