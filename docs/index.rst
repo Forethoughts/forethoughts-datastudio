@@ -141,4 +141,7 @@ Community
 .. toctree::
    :maxdepth: 2
 
-   abo
+   about/index
+   notebook/index
+   data-lake/index
+   computing/i
