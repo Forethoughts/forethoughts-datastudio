@@ -144,4 +144,6 @@ Community
    about/index
    notebook/index
    data-lake/index
-   computing/i
+   computing/index
+   machine-learning/index
+   business-i
