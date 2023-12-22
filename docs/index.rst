@@ -146,4 +146,8 @@ Community
    data-lake/index
    computing/index
    machine-learning/index
-   business-i
+   business-intelligence/index
+
+.. include:: ./ref.rst
+
+.. |ods-logo| image:
