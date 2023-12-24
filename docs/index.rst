@@ -150,4 +150,6 @@ Community
 
 .. include:: ./ref.rst
 
-.. |ods-logo| image:
+.. |ods-logo| image:: ./_static/open-datastudio-logo.png
+   :width: 60px
+   :alt: Op
