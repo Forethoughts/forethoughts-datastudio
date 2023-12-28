@@ -152,4 +152,4 @@ Community
 
 .. |ods-logo| image:: ./_static/open-datastudio-logo.png
    :width: 60px
-   :alt: Op
+   :alt: Open Datastudio
