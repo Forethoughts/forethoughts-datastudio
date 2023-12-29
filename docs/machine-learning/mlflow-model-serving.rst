@@ -24,3 +24,12 @@ MLflow model serving Quickstart
    :target: https://staroid.com/g/open-datastudio/mlflow-model-serving
 
 **Screenshots**
+
+|mlflow-model-serving-screenshot|
+
+.. include:: ../ref.rst
+
+.. |mlflow-model-serving-screenshot| image:: https://user-images.githubusercontent.com/1540981/89857151-256d2d00-db50-11ea-9512-4e69e7f0cf89.png
+   :width: 700px
+   :alt: MLflow model serving
+
