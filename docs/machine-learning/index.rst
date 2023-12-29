@@ -8,4 +8,6 @@ Manage, serve your models.
    :maxdepth: 1
 
    MLflow server <mlflow-server>
-   MLflow model serving
+   MLflow model serving <mlflow-model-serving>
+
+.. include:: ../ref.rst
