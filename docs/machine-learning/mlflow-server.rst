@@ -12,4 +12,4 @@ Key features
   - Remote tracking server
   - Model registry
   - Tracking UI
-  - Connec
+  - Connect from :ref:`Jupyter`. No configuration require
