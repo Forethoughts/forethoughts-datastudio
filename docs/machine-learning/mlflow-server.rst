@@ -9,4 +9,7 @@ Key features
 
   - Click to deploy. No setup required
   - PostgreSQL backend store
-  - Remote tracking s
+  - Remote tracking server
+  - Model registry
+  - Tracking UI
+  - Connec
