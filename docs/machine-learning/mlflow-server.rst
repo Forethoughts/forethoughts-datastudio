@@ -7,4 +7,6 @@ Open data studio makes it easy to deploy on the cloud.
 
 Key features
 
-  - Click t
+  - Click to deploy. No setup required
+  - PostgreSQL backend store
+  - Remote tracking s
