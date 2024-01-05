@@ -15,4 +15,5 @@ Key features
   - Connect from :ref:`Jupyter`. No configuration required
 
 =============================== ===================================================================
-Launch page                 
+Launch page                     https://staroid.com/g/open-datastudio/mlflow-server
+Open data stud
