@@ -12,4 +12,6 @@ Key features
   - Remote tracking server
   - Model registry
   - Tracking UI
-  - Connect from :ref:`Jupyter`. No configuration require
+  - Connect from :ref:`Jupyter`. No configuration required
+
+=============================== =======================
