@@ -16,4 +16,4 @@ Key features
 
 =============================== ===================================================================
 Launch page                     https://staroid.com/g/open-datastudio/mlflow-server
-Open data stud
+Open data studio repository     https://github.com/open-datastudio/mlf
