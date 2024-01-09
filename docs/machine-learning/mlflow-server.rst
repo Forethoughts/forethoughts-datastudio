@@ -24,4 +24,5 @@ Documentation                   https://mlflow.org/docs/latest/index.html
 MLflow Server Quickstart
 ------------------------
 
-.. image:: h
+.. image:: https://staroid.com/api/run/button.svg
+   :target: https://staroid
