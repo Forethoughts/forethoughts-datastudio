@@ -19,4 +19,4 @@ Launch page                     https://staroid.com/g/open-datastudio/mlflow-ser
 Open data studio repository     https://github.com/open-datastudio/mlflow-server
 Original repository             https://github.com/mlflow/mlflow
 Documentation                   https://mlflow.org/docs/latest/index.html
-=============================== =======
+=============================== =================================================================
