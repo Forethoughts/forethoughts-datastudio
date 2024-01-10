@@ -25,4 +25,9 @@ MLflow Server Quickstart
 ------------------------
 
 .. image:: https://staroid.com/api/run/button.svg
-   :target: https://staroid
+   :target: https://staroid.com/g/open-datastudio/mlflow-server
+
+
+**Screenshots**
+
+|mlflow-scre
