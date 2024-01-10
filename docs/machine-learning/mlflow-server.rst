@@ -30,4 +30,10 @@ MLflow Server Quickstart
 
 **Screenshots**
 
-|mlflow-scre
+|mlflow-screenshot|
+
+|mlflow-screenshot2|
+
+.. include:: ../ref.rst
+
+.. |mlflow
