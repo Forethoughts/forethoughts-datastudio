@@ -36,4 +36,4 @@ MLflow Server Quickstart
 
 .. include:: ../ref.rst
 
-.. |mlflow
+.. |mlflow-screenshot| image:: https://github.com/mlflow/mlflow/blob/f39a9
