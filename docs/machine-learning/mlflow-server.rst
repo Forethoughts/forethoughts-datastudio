@@ -38,4 +38,6 @@ MLflow Server Quickstart
 
 .. |mlflow-screenshot| image:: https://github.com/mlflow/mlflow/blob/f39a90d5fdbe588f5f4414d9d88af4f97b8f3de3/docs/source/_static/images/quickstart-ui-screenshot.png?raw=true
    :width: 700px
-   :alt:
+   :alt: MLflow
+
+.. |mlflow-screenshot2| image:: https://github.com/mlflow/mlflow/blob/f3
