@@ -36,4 +36,6 @@ MLflow Server Quickstart
 
 .. include:: ../ref.rst
 
-.. |mlflow-screenshot| image:: https://github.com/mlflow/mlflow/blob/f39a90d5fdbe588f5f4414d9d88af4f97b8f3de3/docs/source/_static/im
+.. |mlflow-screenshot| image:: https://github.com/mlflow/mlflow/blob/f39a90d5fdbe588f5f4414d9d88af4f97b8f3de3/docs/source/_static/images/quickstart-ui-screenshot.png?raw=true
+   :width: 700px
+   :alt:
