@@ -40,4 +40,6 @@ MLflow Server Quickstart
    :width: 700px
    :alt: MLflow
 
-.. |mlflow-screenshot2| image:: https://github.com/mlflow/mlflow/blob/f39a90d5fdbe588f5f4414d9d88af4f97b8f3de3/docs/source/_static/images
+.. |mlflow-screenshot2| image:: https://github.com/mlflow/mlflow/blob/f39a90d5fdbe588f5f4414d9d88af4f97b8f3de3/docs/source/_static/images/tutorial-compare.png?raw=true
+   :width: 700px
+   :alt: 
