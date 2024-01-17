@@ -8,4 +8,6 @@ Notebooks are a form of interactive computing, in which users write and execute 
    :maxdepth: 1
 
    Jupyter <jupyter>
-   Ze
+   Zeppelin <zeppelin>   
+
+.. include:: ../ref.rst
