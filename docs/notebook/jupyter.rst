@@ -8,4 +8,4 @@ Jupyter
 
 |
 
-The Jupyter Notebook is an open-sourc
+The Jupyter Notebook is an open-source web application that allows you to create and share doc
