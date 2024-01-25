@@ -11,3 +11,8 @@ Jupyter
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 Open data studio makes it easy to deploy on the cloud.
 
+Key features
+
+  - Click to deploy. No setup required
+  - Jupyter Lab
+  - NVIDIA GP
