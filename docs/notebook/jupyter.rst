@@ -8,4 +8,6 @@ Jupyter
 
 |
 
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative te
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+Open data studio makes it easy to deploy on the cloud.
+
