@@ -15,4 +15,5 @@ Key features
 
   - Click to deploy. No setup required
   - Jupyter Lab
-  - NVIDIA GP
+  - NVIDIA GPU, CUDA support for machine learning
+  - Works with MLflo
