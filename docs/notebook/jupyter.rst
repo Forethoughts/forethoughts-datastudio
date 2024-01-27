@@ -16,4 +16,5 @@ Key features
   - Click to deploy. No setup required
   - Jupyter Lab
   - NVIDIA GPU, CUDA support for machine learning
-  - Works with MLflo
+  - Works with MLflow remote tracking server and artifact store out of the box
+  
