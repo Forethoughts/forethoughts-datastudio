@@ -18,4 +18,7 @@ Key features
   - NVIDIA GPU, CUDA support for machine learning
   - Works with MLflow remote tracking server and artifact store out of the box
   - Persistent storage for `~/work`
-  - Connect to :re
+  - Connect to :ref:`MLflow server`. No configuration required
+
+
+Jupyter Quickstart
