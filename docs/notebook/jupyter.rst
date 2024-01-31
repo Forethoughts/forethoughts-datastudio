@@ -22,3 +22,6 @@ Key features
 
 
 Jupyter Quickstart
+-------------------
+
+.. image:: https://staroid.com/api/run/b
