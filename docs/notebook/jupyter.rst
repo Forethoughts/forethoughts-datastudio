@@ -35,4 +35,5 @@ Jupyter Quickstart
 Launch page                     https://staroid.com/g/open-datastudio/jupyter
 Open data studio repository     https://github.com/open-datastudio/jupyter
 Original repository             https://github.com/jupyter/jupyter
-Documentation             
+Documentation                   https://jupyter.readthedocs.io/en/latest/
+============
