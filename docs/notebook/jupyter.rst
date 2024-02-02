@@ -32,4 +32,5 @@ Jupyter Quickstart
 |jupyter-screenshot|
 
 =============================== ===================================================================
-Launch page                     https://staroid.com/g/open-datast
+Launch page                     https://staroid.com/g/open-datastudio/jupyter
+Open data studio repository     https://github.com/
