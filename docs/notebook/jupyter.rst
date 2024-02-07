@@ -40,4 +40,5 @@ Documentation                   https://jupyter.readthedocs.io/en/latest/
 
 .. include:: ../ref.rst
 
-.. |jupyter-screenshot| image:: https://jupyte
+.. |jupyter-screenshot| image:: https://jupyter.org/assets/jupyterpreview.png
+   :width: 700p
