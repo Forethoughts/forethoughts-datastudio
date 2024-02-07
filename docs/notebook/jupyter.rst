@@ -38,4 +38,6 @@ Original repository             https://github.com/jupyter/jupyter
 Documentation                   https://jupyter.readthedocs.io/en/latest/
 =============================== ===================================================================
 
-.. include:: ../ref.
+.. include:: ../ref.rst
+
+.. |jupyter-screenshot| image:: https://jupyte
