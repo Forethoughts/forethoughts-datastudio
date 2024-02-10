@@ -1,1 +1,1 @@
-<br />\n<center>\n  <img src="https://github.com/For
+<br />\n<center>\n  <img src="https://github.com/Forethoughts/forethoughts-datastudio/raw/master/docs/_static/fore
